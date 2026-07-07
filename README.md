@@ -22,4 +22,4 @@ Python application that add a watermark to all the files named.
 ```python
 python3 pdf_water.py file_1.pdf file_2.pdf ... water_mark.pdf
 ```
-the result is going to be stored in the `final_pdf/` folder with the name `file_name_water.pdf`
+the result is going to be stored in the `final_pdf/` folder and its going to save a new pdf per file inserted with the name `file_name_water.pdf`
